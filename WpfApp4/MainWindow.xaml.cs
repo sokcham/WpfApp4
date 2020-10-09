@@ -36,6 +36,7 @@ namespace WpfApp4
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            // add an account and display
             Account account = new Account
             {
                 Name = "John Doe",
